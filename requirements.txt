@@ -3,4 +3,5 @@ pandas
 numpy
 scikit-learn 
 sklearn
-pickle
+pickle 
+pip 
