@@ -4,4 +4,4 @@ numpy == 1.26.4
 scikit-learn 
 sklearn
 pickle 
-pip 
+pip == 24.1.2
